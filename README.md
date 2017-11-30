@@ -9,7 +9,8 @@ Compression algorithm which implements Huffman coding.
 
 For this reason, it is **HIGHLY** recommended that you create a copy of the file to test this program.
 
-	(command) copy originalFile.txt copyOfFile
+	(Windows - command) copy originalFile.txt copyOfFile
+	(Linux - command) cp originalFile.txt copyOfFile
  	+copyOfFile
 
 (1) Compile both .java files:
